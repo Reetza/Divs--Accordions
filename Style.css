@@ -1,0 +1,32 @@
+p {
+    Color: Black;
+    font-size: 2vw;
+    font-family: 'Open Sans', sans-serif;
+
+}
+body{
+    background-color: black;
+    width:90%
+    color: rgb(235, 132, 163);
+    text-align:center;
+    margin:auto;
+
+}
+
+h1 {
+    color: White; 
+    font-size: 5vw;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+h3 {
+    Color: white;
+    font-size: 2vw;
+    font-family: 'Roboto', sans-serif;
+
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
